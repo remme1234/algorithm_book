@@ -12,6 +12,8 @@ public class Test {
 		try {
 			in = new Scanner(System.in);
 			
+			System.out.println("test !!!");
+		
 		} catch (Exception e) {
 			e.getStackTrace();
 		} finally {
@@ -19,3 +21,4 @@ public class Test {
 		}
 	}
 }
+ 		
